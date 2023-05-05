@@ -1,0 +1,40 @@
+.table_head_row{
+    background-color:#5048E5 ;
+    color: white;
+    letter-spacing: 2px;
+    line-height: 40px;
+    margin: 10px !important;
+    padding-left: 20px !important;
+}
+
+.table__heading{
+    padding-left: 20px !important;
+}
+
+
+.table_roww{
+    line-height: 40px !important;
+    
+}
+
+.table_row_data{
+    padding-left: 20px !important;
+    letter-spacing: 0.5px;
+    font-weight: 600;
+}
+
+.table__div{
+    margin-left: -20px !important;
+    margin-right: 20px;
+    padding-left: -10px;
+    left: -30px !important;
+}
+
+.select_option{
+    padding: 5px;
+    border:2px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+    letter-spacing: 1px !important;
+}
+

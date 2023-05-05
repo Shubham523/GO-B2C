@@ -1,0 +1,20 @@
+#addproduct__input{
+    color: black !important;
+    letter-spacing: 2px;
+    margin-top: 10px;
+}
+
+#photo_input{margin-top: 10px;}
+
+.text-dark{
+    font-size: 18px !important;
+    color: black !important;
+
+}
+
+.photo_input{width: 100% !important;}
+
+.add_product_btn{
+    width: 70% !important;
+    
+}

@@ -1,0 +1,34 @@
+#card__div{
+    height: 450px !important;
+    max-height: 450px !important;
+    border-radius: 20px !important;
+    margin: 20px !important;
+}
+
+.product__name{
+    font-family: Poppins !important;
+    color: black;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+    font-weight: bold !important;
+}
+
+.product__description{
+    letter-spacing: 0.5px;
+}
+
+.product__div{
+    background-color: #e5e7e9;
+}
+
+.product__edit__product__button{
+    background-color: #1E293B;
+    color: white;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+    width: 100%;
+    bottom: 0px;
+}
+

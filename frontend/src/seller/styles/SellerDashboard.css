@@ -1,0 +1,145 @@
+body {
+    font-family: Poppins !important;
+    text-decoration: none !important;
+    background-color: #F4F5F8 !important;
+    
+}
+
+.menu__list__data,.menu__list__data__name {
+    color: inherit;
+    text-decoration: none !important;
+    list-style: none;
+    font-family: Poppins;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 10px;
+    color: white !important;
+    margin-left: -10px !important;
+    padding-left: 10px;
+    margin-top: 5px;
+
+}
+
+.menu__list__data span {
+    margin-right: 10px;
+    font-size: 20px;
+
+} 
+
+#links{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+.menu__list__data__name{font-size: 20px;     font-weight: bold;}
+.menu__list__data__name  span {
+    font-size: 18px;
+    margin-right: 10px;
+    color: white !important;
+    font-weight: bold;
+    
+    
+}
+
+.menu__list__data:hover{
+    background-color: white;
+    color: black !important;
+    transition: 0.5s all ease-in-out ;
+    border-radius: 15px;
+    font-weight: bold;
+
+
+}
+.menu__div{
+    background-color:#111827;
+    color: black !important;
+    height: 100vh;
+    margin-left: -6% !important;
+
+    width: 90%;
+    border-radius: 0px;
+    /*background: url('../../assets/Images/images1.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 100vh !important;*/
+    
+    
+   
+
+
+}
+
+
+.seller__center__name {
+    font-family: Poppins;
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 1rem;
+    color: white;
+    
+
+}
+.seller__center__name__div {
+   
+   /* background: url('../../assets/Images/images1.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100% 150px !important;*/
+    background-color: #5048E5;
+    margin-top: 2rem;   
+    border-radius: 20px;
+    padding: 1rem;
+}
+
+.seller__center__name__span{
+    color: white !important;
+    letter-spacing: 1.25px;
+    padding-left: 1rem;
+    font-weight: bold;
+}
+
+
+#sellerCenterdiv{
+   margin-top: 20px !important;
+   margin-left: -50px !important;
+}
+
+.dashboard__products,.dashboard__orders {
+     letter-spacing: 1px;
+     background-color:rgb(110, 185, 255) !important;  
+     border-radius: 10px !important;
+     font-family: Poppins;
+     margin-right: 40px;
+     margin-left: 10px;
+     margin-top: 3rem !important;
+     box-shadow: 20px;
+     box-shadow: black;
+  
+}
+/*#revenue{
+    color: rgb(118, 214, 93);
+    font-weight: bold !important;
+}*/
+
+.dashboard__products h3,.dashboard__orders h3,.orders__dashboard__title {
+    padding: 5px;
+    padding-left: 10px;
+    text-align: center;
+    font-weight: bold; 
+    letter-spacing: 2px;
+    font-family: Poppins;
+}
+
+.orders__dashboard__title{
+    text-align: left !important;
+}
+
+.dashboard__products h3 ,.dashboard__orders h3 {
+    font-size: 20px;
+}
+
+#data{
+  
+    border-radius: 10px !important;
+}
+
+

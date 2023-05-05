@@ -1,0 +1,66 @@
+body {
+    font-size: 16px;  
+}
+
+.title{
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 20px;
+    font-family: poppins;
+    font-weight: bold !important;
+    letter-spacing: 2px;
+}
+
+@font-face {
+    font-family: "poppins";
+    src: url(../../../src/assets/Fonts/Poppins-Regular.ttf);
+}
+.bottom__one{
+    
+    letter-spacing: 1.5px;
+    font-size: 16px; 
+    margin-top: 15px;
+    font-family: poppins;
+    font-weight: bold;
+
+}
+.form-group {
+    font-family: poppins;
+    letter-spacing: 1.5px;
+    margin-top:15px;  
+    width: 100%;
+    color: black;
+    font-weight: bold ;
+}
+
+
+
+
+  
+
+.form-group input, #message{
+    letter-spacing: 1.5px;
+    font-family: poppins;
+    font-size: 16px !important;
+    font-weight: 600;
+
+}
+
+.form-group input {
+    font-weight: 500;
+}
+
+
+
+#userSignUpButton {
+    width:100%;
+    padding: 10px;
+    background-color: black;
+    letter-spacing: 2px;
+    border-radius: 3px;
+    font-family: poppins;
+    font-weight: bold;
+}
+
+
+

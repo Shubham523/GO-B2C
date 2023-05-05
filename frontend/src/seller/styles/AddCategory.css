@@ -1,0 +1,9 @@
+.category__label{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.form-control{
+   letter-spacing: 2px;
+    color: black !important;
+}
