@@ -1,0 +1,18 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+@font-face {
+  font-family: "poppins";
+  src: url(../src/assets/Fonts/Poppins-Regular.ttf);
+}
+
+body {
+  background: #f8f8f8 ;
+  overflow-x: hidden;
+  max-width: 100%;
+  font-family: poppins;
+}
+
+
